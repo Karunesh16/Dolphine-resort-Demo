@@ -10,7 +10,7 @@ class MyHeader extends HTMLElement {
                       <img src="images/ft-logo.png" alt="">
                       <div class="ft-text">
                           <h2>Dolphin</h2>
-                          <h3>Beach Home & Resort</h3>
+                          <h3>Beach Homes & Resort</h3>
                       </div>
                   </a>
               </div><!--ft-logo end-->
@@ -98,7 +98,7 @@ class MyFooter extends HTMLElement {
                   <img src="images/ft-logo.png" alt="">
                   <div class="ft-text">
                       <h2>Dolphin</h2>
-                      <h3>Bleach Home & Resort</h3>
+                      <h3>Beach Homes & Resort</h3>
                   </div>
               </div><!--ft-logo end-->
               
@@ -113,7 +113,7 @@ class MyFooter extends HTMLElement {
                       <div class="widget widget-info">
                           <h4>About Us</h4>
                           <p>
-                          Welcome to dolphine hoe & Resort, a premier beachside resort that offers the perfect combination of relaxation and luxury. Our resort is nestled in a beautiful location on the coast, surrounded by stunning ocean views, and provides guests with an unforgettable experience.
+                          Welcome to Dolphin Homes & Resort, a premier beachside resort that offers the perfect combination of relaxation and luxury. Our resort is nestled in a beautiful location on the coast, surrounded by stunning ocean views, and provides guests with an unforgettable experience.
                           </p>
                           
                       </div><!--widget-info end-->
@@ -142,15 +142,17 @@ class MyFooter extends HTMLElement {
                   </div>
                   <div class="col-lg-4 col-md-6">
                     <h3 class="widget-title">Address</h3>
-                    <p> Dolphin Beach Homes& Resort, House No. 3-100/1, Kome -Koravadi beach ,Udupi district, Kundapur Taluka Of southern part of Karnataka State,Pin code- 576257 <br> </p><br> 
+                    <p> Dolphin Beach Homes & Resort, House No. 3-100/1, Kome -Koravadi beach ,Udupi district, Kundapur Taluka Of southern part of Karnataka State,Pin code- 576257 <br> </p><br> 
                     <ul>
                     <li>
 
                     <div class="cco_icon">
                         <img src="images/cc2.png" alt="">
                     </div>
-                    <span><strong>Phone:</strong> Deepak : 95352 90767 <br>
-                        Suresh : 99002 00827
+                    <span><strong>Phone:</strong>
+                    Mr. Deepak : +91 95352 90767 <br>
+                    Mr. Suresh : +91 99002 00827 <br>
+                    Mr. Sachin : +91 99013 94741
                     </span>
                 </li><br> 
                 <li>
@@ -170,7 +172,7 @@ class MyFooter extends HTMLElement {
       </div><!--bottom-footer end-->
       <div class="bottom-strip">
           <div class="container">
-              <p>© 2023 Dolphine Bleach Homes. All Rights Reserved. Made by <a href="https://networkinfotech.in/"><u>Network Infotech</u></a></p>
+              <p>© 2023 Dolphin Beach Homes & Resort. All Rights Reserved. Made by <a href="https://networkinfotech.in/"><u>Network Infotech</u></a></p>
           </div>
       </div><!--bottom-strip end-->
   </footer><!--FOOTER END-->
